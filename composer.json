@@ -1,5 +1,5 @@
 {
-    "name": "maxfactor/support",
+    "name": "cogniteq/maxfactor-support",
     "description": "Support and helpers for Laravel PHP based projects",
     "type": "library",
     "license": "MIT",
