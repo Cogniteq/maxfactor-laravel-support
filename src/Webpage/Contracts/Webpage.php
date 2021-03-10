@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support\Webpage\Contracts;
+namespace Cogniteq\Maxfactor\Support\Webpage\Contracts;
 
 interface Webpage
 {

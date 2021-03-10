@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support\Video\Facades;
+namespace Cogniteq\Maxfactor\Support\Video\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

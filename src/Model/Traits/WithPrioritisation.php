@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support\Model\Traits;
+namespace Cogniteq\Maxfactor\Support\Model\Traits;
 
 trait WithPrioritisation
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support\Macros;
+namespace Cogniteq\Maxfactor\Support\Macros;
 
 class Macro
 {

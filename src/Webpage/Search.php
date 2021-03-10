@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support\Webpage;
+namespace Cogniteq\Maxfactor\Support\Webpage;
 
 use Exception;
 use Illuminate\Support\Arr;

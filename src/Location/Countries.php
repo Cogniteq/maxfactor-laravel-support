@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support\Location;
+namespace Cogniteq\Maxfactor\Support\Location;
 
 use Symfony\Component\Intl\Intl;
 use Illuminate\Support\Collection;

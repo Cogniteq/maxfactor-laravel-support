@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support;
+namespace Cogniteq\Maxfactor\Support;
 
 use Illuminate\Support\Carbon;
 

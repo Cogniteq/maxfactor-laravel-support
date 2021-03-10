@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support\Webpage\Middleware;
+namespace Cogniteq\Maxfactor\Support\Webpage\Middleware;
 
 use Closure;
 use Illuminate\Support\Facades\App;

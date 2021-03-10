@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support\Webpage\Nova;
+namespace Cogniteq\Maxfactor\Support\Webpage\Nova;
 
 use Laravel\Nova\Panel;
 use Laravel\Nova\Fields\Text;

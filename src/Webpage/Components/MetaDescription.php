@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support\Webpage\Components;
+namespace Cogniteq\Maxfactor\Support\Webpage\Components;
 
 use Illuminate\Http\Request;
 use Illuminate\Contracts\Support\Htmlable;

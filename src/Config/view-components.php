@@ -2,6 +2,6 @@
 
 return [
     'namespaces' => [
-        'maxfactor:webpage' => 'Maxfactor\Support\Webpage\Components',
+        'maxfactor:webpage' => 'Cogniteq\Maxfactor\Support\Webpage\Components',
     ],
 ];

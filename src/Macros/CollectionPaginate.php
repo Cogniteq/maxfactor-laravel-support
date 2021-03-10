@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support\Macros;
+namespace Cogniteq\Maxfactor\Support\Macros;
 
 use Illuminate\Support\Collection;
 use Illuminate\Pagination\LengthAwarePaginator;

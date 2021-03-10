@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support\Webpage\Traits;
+namespace Cogniteq\Maxfactor\Support\Webpage\Traits;
 
 trait MustHaveCanonical
 {

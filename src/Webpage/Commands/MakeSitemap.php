@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support\Webpage\Commands;
+namespace Cogniteq\Maxfactor\Support\Webpage\Commands;
 
 use Illuminate\Console\Command;
 use Laravelium\Sitemap\Sitemap;

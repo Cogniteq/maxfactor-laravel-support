@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support\Video;
+namespace Cogniteq\Maxfactor\Support\Video;
 
 use MediaEmbed\MediaEmbed;
 

@@ -1,11 +1,11 @@
 <?php
 
-namespace Maxfactor\Support;
+namespace Cogniteq\Maxfactor\Support;
 
 use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
 use Illuminate\Support\Carbon;
-use Maxfactor\Support\Location\Facades\Countries;
+use Cogniteq\Maxfactor\Support\Location\Facades\Countries;
 
 class Maxfactor
 {

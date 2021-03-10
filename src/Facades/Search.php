@@ -1,6 +1,6 @@
 <?php
 
-namespace Maxfactor\Support\Facades;
+namespace Cogniteq\Maxfactor\Support\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

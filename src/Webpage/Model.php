@@ -1,9 +1,9 @@
 <?php
 
-namespace Maxfactor\Support\Webpage;
+namespace Cogniteq\Maxfactor\Support\Webpage;
 
-use Maxfactor\Support\Webpage\Contracts\Webpage;
-use Maxfactor\Support\Webpage\Traits\HasBreadcrumbs;
+use Cogniteq\Maxfactor\Support\Webpage\Contracts\Webpage;
+use Cogniteq\Maxfactor\Support\Webpage\Traits\HasBreadcrumbs;
 use Illuminate\Database\Eloquent\Model as EloquentModel;
 
 class Model extends EloquentModel implements Webpage

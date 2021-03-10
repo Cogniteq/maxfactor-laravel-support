@@ -1,16 +1,16 @@
 <?php
 
-namespace Maxfactor\Support;
+namespace Cogniteq\Maxfactor\Support;
 
-use Maxfactor\Support\Maxfactor;
-use Maxfactor\Support\Video\Video;
+use Cogniteq\Maxfactor\Support\Maxfactor;
+use Cogniteq\Maxfactor\Support\Video\Video;
 use Illuminate\Support\Facades\Gate;
 use Illuminate\Support\Facades\View;
-use Maxfactor\Support\Webpage\Search;
+use Cogniteq\Maxfactor\Support\Webpage\Search;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Database\Schema\Blueprint;
-use Maxfactor\Support\Location\Countries;
-use Maxfactor\Support\Macros\CollectionPaginate;
+use Cogniteq\Maxfactor\Support\Location\Countries;
+use Cogniteq\Maxfactor\Support\Macros\CollectionPaginate;
 
 class MaxfactorServiceProvider extends ServiceProvider
 {
